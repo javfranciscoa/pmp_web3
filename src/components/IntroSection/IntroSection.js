@@ -130,7 +130,7 @@ const IntroSection = () => {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  const whatsAppLink = "https://wa.link/odjldi"; // Define the link URL
+  const whatsAppLink = "https://calendly.com/powermediapartners/30min"; // Define the link URL
 
   return (
     <SectionWrapper id="intro-section" ref={introSectionRef}>
